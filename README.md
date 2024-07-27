@@ -5,5 +5,5 @@ My personal portfolio website crafted with Python and Streamlit and with an inte
 
 ![Home_page](./images/About.jpg)
 
-![Ask AI](./images/AskAI.jpg)
+![Ask AI](./images/Ask AI.jpg)
 ## What it Does
