@@ -6,15 +6,16 @@ This is personal portfolio website crafted with Python and Streamlit and enhance
 
 ## Why Build Your Portfolio Website with Python?
 🌐 **View Your Website Live:**
-    Host your portfolio online and share it with the world. Allow potential employers, clients, and peers to view your work anytime, anywhere.
+    Host your portfolio online and share it with the world. Allow potential employers, 
+    clients, and peers to view your work anytime, anywhere.
 
-📈 Showcase Your Skills
+📈 **Showcase Your Skills**
 Create a professional portfolio that highlights your projects, skills, and achievements. Stand out to potential employers or clients!
 
-🤖 Integrate Your Own AI Bot
+🤖 **Integrate Your Own AI Bot**
 Learn how to develop and integrate an AI bot into your website. Impress visitors with cutting-edge technology and interactive features. Your AI bot can answer common questions on your behalf, such as your hobbies, skills, and contact information. This will provide a seamless and engaging user experience, making it easier for visitors to learn more about you without waiting for a response.
 
-🎨 Unleash Your Creativity
+🎨 **Unleash Your Creativity**
 Customize your website to reflect your personal style and brand. Make it unique and memorable!
 ## How it Works
 
