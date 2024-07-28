@@ -16,7 +16,8 @@ Learn how to develop and integrate an AI bot into your website. Impress visitors
 
 🎨 **Unleash Your Creativity:**
 Customize your website to reflect your personal style and brand. Make it unique and memorable!
-## How it Works
+
+## Showcase the website
 
 ### Home page
 ![Home_page](./images/About.jpg)
