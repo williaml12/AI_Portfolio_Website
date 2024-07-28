@@ -35,3 +35,6 @@ Customize your website to reflect your personal style and brand. Make it unique 
 4. HTML and JavaScript with custom CSS
 5. Projects
 6. Contact form
+
+## Setup
+Deploy on Streamlit Community Cloud
