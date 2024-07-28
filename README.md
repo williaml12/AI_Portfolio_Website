@@ -2,7 +2,7 @@
 Build your portfolio with Python, Streamlit, and Google AI. Showcase your coding skills to recruiters with a chatbot tailored to your portfolio.
 
 ## Overview
-This is personal portfolio website crafted with Python and Streamlit and enhanced with an interactive chatbot feature using Google AI. This site showcases my professional Experience, skills, projects, Hobbies & Interests, contact info, and educational background. The integrated chatbot serves as your guide, ready to answer questions about my experience and expertise.
+This is personal portfolio website crafted with Python, Streamlit and enhanced with an interactive chatbot feature using Google AI. This site showcases my professional Experience, skills, projects, Hobbies & Interests, contact info, and educational background. The integrated chatbot serves as your guide, ready to answer questions about my experience and expertise.
 
 ## Why Build Your Portfolio Website with Python?
 🌐 **View Your Website Live:**
