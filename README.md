@@ -33,4 +33,5 @@ Customize your website to reflect your personal style and brand. Make it unique 
 2. Animations
 3. Career snapshot with a timeline
 4. HTML and JavaScript with custom CSS
-5. Contact form
+5. Projects
+6. Contact form
