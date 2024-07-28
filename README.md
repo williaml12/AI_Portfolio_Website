@@ -25,7 +25,7 @@ Customize your website to reflect your personal style and brand. Make it unique 
 ### AI Bot
 ![Ask AI](./images/Ask_AI.jpg)
 
-Here is the video showcasing the website:
+### Here is the video showcasing the website:
 [![Watch the video](https://img.youtube.com/vi/sY2c0nYH6So/0.jpg)](https://www.youtube.com/watch?v=sY2c0nYH6So)
 ## How it Works
 
