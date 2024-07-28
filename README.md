@@ -30,6 +30,7 @@ Customize your website to reflect your personal style and brand. Make it unique 
 
 ## How it Works
 Streamlit allows for the creation of web apps with ease using Python scripts. This website presents information sections including:
+In this tutorial, you’ll learn how to build a portfolio with:
 
 1. An AI-powered chatbot that includes custom data, such as a self-introduction
 2. Animations
