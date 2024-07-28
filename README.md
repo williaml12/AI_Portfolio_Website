@@ -37,4 +37,4 @@ Customize your website to reflect your personal style and brand. Make it unique 
 6. Contact form
 
 ## Setup
-Deploy on Streamlit Community Cloud
+Streamlit Community Cloud Interface
