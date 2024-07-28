@@ -60,3 +60,11 @@ In this website, you’ll learn how to build a portfolio with:
 6. Contact form
 
 ## Run the application
+
+To run the portfolio website locally, follow these steps:
+
+1. Clone this repository.
+2. install required libraries from requirements.txt
+3. Feel free to modify it to your needs!
+
+Or run it here https://williamlu.streamlit.app/
