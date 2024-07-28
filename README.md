@@ -19,9 +19,9 @@ Customize your website to reflect your personal style and brand. Make it unique 
 
 ## Showcase the website
 
-### Home page
+### About me
 ![Home_page](./images/About.jpg)
 
-### AI bot
+### AI Bot
 ![Ask AI](./images/Ask_AI.jpg)
 ## What it Does
