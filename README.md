@@ -42,7 +42,11 @@ The chatbot developed with Gemini API offers an interactive element where you â€
 
 -    Hi
 -    Tell me about you
+-    Tell me more about your skills
 -    What's your educational background??
+-    Tell me about your work experience
+-    What's your hobbies?
+-    Where can I find your works?
 -    what's your contact?
 
 In this tutorial, youâ€™ll learn how to build a portfolio with:
