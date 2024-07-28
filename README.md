@@ -50,7 +50,7 @@ The chatbot developed with Gemini API offers an interactive element where you �
 -    what's your contact?
 
 ## Getting Started
-In this tutorial, you’ll learn how to build a portfolio with:
+In this website, you’ll learn how to build a portfolio with:
 
 1. An AI-powered chatbot that includes custom data, such as a self-introduction
 2. Animations
@@ -59,5 +59,4 @@ In this tutorial, you’ll learn how to build a portfolio with:
 5. Projects
 6. Contact form
 
-## Setup
-Streamlit Community Cloud Interface
+## Run the application
