@@ -29,4 +29,8 @@ Customize your website to reflect your personal style and brand. Make it unique 
 [![Watch the video](https://img.youtube.com/vi/sY2c0nYH6So/0.jpg)](https://www.youtube.com/watch?v=sY2c0nYH6So)
 
 ## How it Works
-
+1. An AI-powered chatbot that includes custom data, such as a self-introduction
+2. Animations
+3. Career snapshot with a timeline
+4. HTML and JavaScript with custom CSS
+5. Contact form
