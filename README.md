@@ -54,9 +54,9 @@ In this website, you’ll learn how to build a portfolio with:
 
 1. An AI-powered chatbot that includes custom data, such as a self-introduction
 2. Animations
-3. Career snapshot with a timeline
-4. HTML and JavaScript with custom CSS
-5. Projects
+3. HTML and JavaScript with custom CSS
+4. Add images to show your hobbies and interests
+5. Projects layout with custom CSS
 6. Contact form
 
 ## Run the application
