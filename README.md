@@ -49,6 +49,7 @@ The chatbot developed with Gemini API offers an interactive element where you â€
 -    Where can I find your works?
 -    what's your contact?
 
+## Getting Started
 In this tutorial, youâ€™ll learn how to build a portfolio with:
 
 1. An AI-powered chatbot that includes custom data, such as a self-introduction
