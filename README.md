@@ -27,6 +27,6 @@ Customize your website to reflect your personal style and brand. Make it unique 
 
 Here is the video showcasing the website:
 https://www.youtube.com/watch?v=sY2c0nYH6So
-[![Watch the video](https://img.youtube.com/vi/_sY2c0nYH6So/0.jpg)](https://www.youtube.com/watch?v=sY2c0nYH6So)
+[![Watch the video](https://img.youtube.com/vi/_sY2c0nYH6So/0.jpg)](https://www.youtube.com/watch?v=_sY2c0nYH6So)
 ## How it Works
 
