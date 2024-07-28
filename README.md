@@ -35,6 +35,8 @@ Streamlit allows for the creation of web apps with ease using Python scripts. Th
 -    Projects
 -    Contact form
 
+Chatbot Integration
+The chatbot developed with Gemini API offers an interactive element where you – as a recruiter or interested party – can inquire about specific details of my career. For example, ask "Tell me about your work with Python," or "What projects have you completed using Typescript?"
 
 In this tutorial, you’ll learn how to build a portfolio with:
 
