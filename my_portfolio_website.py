@@ -95,11 +95,11 @@ if selected == 'About':
 
         st.title("William's AI Bot")
 
-        # user_question = st.text_input("Ask anything about me")
-        # if st.button("ASK", use_container_width=400):
-        #     prompt = persona + "Here is the question that the user asked: " + user_question
-        #     response = model.generate_content(prompt)
-        #     st.write(response.text)
+        user_question = st.text_input("Ask anything about me")
+        if st.button("ASK", use_container_width=400):
+            prompt = persona + "Here is the question that the user asked: " + user_question
+            response = model.generate_content(prompt)
+            st.write(response.text)
 
         # Create a form for input and button
         with st.form(key='question_form'):
@@ -497,4 +497,5 @@ if selected == "Contact":
             st.markdown(contact_form, unsafe_allow_html=True)
         with right_col:
             st_lottie(lottie_contact, height=300)
+
 
