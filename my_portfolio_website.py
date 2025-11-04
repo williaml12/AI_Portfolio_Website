@@ -7,7 +7,8 @@ import google.generativeai as genai
 
 api_key = st.secrets["GOOGLE_API_KEY"]
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-1.5-flash')
+# model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 with st.container():
     selected = option_menu(
@@ -496,3 +497,4 @@ if selected == "Contact":
             st.markdown(contact_form, unsafe_allow_html=True)
         with right_col:
             st_lottie(lottie_contact, height=300)
+
